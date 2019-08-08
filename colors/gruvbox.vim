@@ -1375,6 +1375,12 @@ hi! link jsonBraces GruvboxFg1
 hi! link jsonString GruvboxFg1
 
 " }}}
+" SQF: {{{
+
+hi! link sqfOperator GruvboxPurple
+hi! link sqfStructure GruvboxOrange
+
+" }}}
 
 
 " Functions -------------------------------------------------------------------
